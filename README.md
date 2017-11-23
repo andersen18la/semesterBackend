@@ -1,2 +1,1 @@
-# semesterBackend
-Semester project backend
+### Backend for the semester seed
